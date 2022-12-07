@@ -35,6 +35,9 @@ Donate 500000000 Dollars (ULTRA DONATION)
 Donate 1000000000 Dollars (MEGA DONATION)
 Donate 5000000000 Dollars (FINAL DONATION)
 Donate 10000000000 Dollars (EXTREME DONATION)
+Donate 100000000000 Dollars (INFINITE DONATION)
+Donate 1000000000000 Dollars (FRIENDLY DONATION 1)
+Donate 10000000000000 Dollars (END DONATION)
 
 
 
@@ -46,3 +49,18 @@ Donate 0 Dollars (NA DONATION)
 Donate 0 Dollars (NA DONATION)
 Donate 0 Dollars (NA DONATION)
 Donate -1 Dollars (??? DONATION)
+Donate [Insert Number] Donation ([Name] Donation)
+
+
+
+
+
+
+
+
+
+
+Credits!
+LtzDarik - Dollars List
+Peeuser121 - Name of donations
+My friends - ANYTHING
